@@ -7,9 +7,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What are props in React?
 
-  Your answer:
+  Your answer: Props are keys and values that are passed down from parent class to child classes
 
-  Researched answer:
+  Researched answer: Props are perameters that are used to send down information to child components.
 
 
 
